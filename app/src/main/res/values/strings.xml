@@ -1,0 +1,5 @@
+<resources>
+    <string name="et_texto_mint"> Digite alguma coisa aqui:</string>
+    <string name="btn.enviar"> Enviar</string>
+    <string name="app_name">"Sabores da terra "</string>
+</resources>

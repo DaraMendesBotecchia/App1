@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طعم های زمین</string>
+    <string name="et_texto_mint">اینجا چیزی تایپ کنید:</string>
+    <string name="btn.enviar">فرستادن</string>
+</resources>
